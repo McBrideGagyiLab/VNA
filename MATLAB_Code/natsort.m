@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function [X,ndx,dbg] = natsort(X,xpr,varargin) %#ok<*SPERR>
 % Alphanumeric / Natural-Order sort the strings in a cell array of strings.
 %

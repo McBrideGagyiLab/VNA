@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function [A,node,link] = Skel2Graph3D(skel,THR)
 % SKEL2GRAPH3D Calculate the network graph of a 3D voxel skeleton
 %

@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 %% NATSORTFILES Examples
 % The function <https://www.mathworks.com/matlabcentral/fileexchange/47434
 % |NATSORTFILES|> sorts a cell array of filenames or filepaths, taking into

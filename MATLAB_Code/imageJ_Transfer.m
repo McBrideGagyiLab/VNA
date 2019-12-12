@@ -1,3 +1,7 @@
+% This code was written by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 %% read in images from ImageJ and create a stack
 
 for i = 1:500

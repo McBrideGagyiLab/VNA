@@ -1,4 +1,7 @@
-
+% This code was written by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 %% Sort Vessels
 
 ind = xlsread('C:\Users\peter\Documents\Branch Information\Actual Network_02_2');

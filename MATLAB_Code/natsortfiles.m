@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function [X,ndx] = natsortfiles(X,varargin)
 % Alphanumeric / Natural-Order sort of a cell array of filenames/filepaths.
 %

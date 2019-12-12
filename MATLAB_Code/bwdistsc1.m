@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function D=bwdistsc1(bw,aspect,maxval)
 % D=BWDISTSC1(BW,ASPECT,MAXVAL)
 % BWDISTSC1 computes Euclidean distance transform of a binary 3D image 

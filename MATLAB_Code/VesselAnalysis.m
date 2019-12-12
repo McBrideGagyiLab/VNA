@@ -1,3 +1,7 @@
+% This code was modified by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function varargout = VesselAnalysis(varargin)
 % VESSELANALYSIS MATLAB code for VesselAnalysis.fig
 %      VESSELANALYSIS, by itself, creates a new VESSELANALYSIS or raises the existing

@@ -1,4 +1,7 @@
-
+% This code was written by John Peters in the McBride-Gagyi lab
+% at Saint Louis University.
+% This code is licensed under the GNU General Public License v3.0 (see
+% LICENSE for details).
 function [val, change,valX,valY,valZ] = LocalMax2(val, valX, valY, valZ, distData)
 
 change = false;
